@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="20px" viewBox="0 0 54 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>pill-solid-error-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="53" height="20" rx="10"></rect>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-1004.000000, -1372.000000)">
+            <g id="States" transform="translate(370.000000, 1150.000000)">
+                <g id="Group" transform="translate(0.000000, 80.000000)">
+                    <g id="4" transform="translate(576.000000, 0.000000)">
+                        <g id="Pill-/-1-Default-/-(20px)-Default" transform="translate(58.500000, 142.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Pill" fill="#FF0000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <text id="Label" mask="url(#mask-2)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="12.0559082" y="14">Error</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

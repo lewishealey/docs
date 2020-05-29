@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>jira-seeklogo.com</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0308675%" y1="2.00180631%" x2="58.8877062%" y2="41.1066719%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.665247%" y1="2.28536105%" x2="55.4018095%" y2="44.9217807%" id="linearGradient-2">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-1145.000000, -2785.000000)" fill-rule="nonzero">
+            <g id="jira-seeklogo.com" transform="translate(1145.000000, 2785.000000)">
+                <path d="M22.9929177,0 L11.3846154,0 C11.3846154,1.36387067 11.9367047,2.67188074 12.91943,3.63628292 C13.9021554,4.60068512 15.2350169,5.14248063 16.6248004,5.14248063 L18.7631719,5.14248063 L18.7631719,7.16850599 C18.7650237,10.0060471 21.1085471,12.3058751 24,12.3076923 L24,0.988305057 C24,0.442479245 23.5491139,0 22.9929177,0 Z" id="Path" fill="#2684FF"></path>
+                <path d="M17.1467638,5.84615385 L5.53846154,5.84615385 C5.54031325,8.68369501 7.88383669,10.9835229 10.7752897,10.9853401 L12.9136611,10.9853401 L12.9136611,13.0179542 C12.9173658,15.8554944 15.2623918,18.1538462 18.1538462,18.1538462 L18.1538462,6.8344589 C18.1538462,6.2886331 17.7029601,5.84615385 17.1467638,5.84615385 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M11.6083023,11.6923077 L0,11.6923077 C0,14.5324213 2.34611075,16.8347883 5.24018503,16.8347883 L7.38527038,16.8347883 L7.38527038,18.8608137 C7.38711569,21.6957861 9.72655389,23.9945522 12.6153846,24 L12.6153846,12.6806128 C12.6153846,12.1347869 12.1644984,11.6923077 11.6083023,11.6923077 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

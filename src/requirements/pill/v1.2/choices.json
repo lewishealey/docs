@@ -1,0 +1,10 @@
+{
+    "tokens": [{
+        "typography" : {
+            "height": "alpha-4"
+        },
+        "states": {
+            "height": "size-4"
+        }
+    }]
+}

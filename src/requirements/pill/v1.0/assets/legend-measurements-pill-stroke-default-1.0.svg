@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="72px" viewBox="0 0 94 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>legend-measurements-pill-stroke-default-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-850.000000, -3020.000000)">
+            <g id="Specifications" transform="translate(370.000000, 2824.000000)">
+                <g id="Stroke---Measurements" transform="translate(480.000000, 80.000000)">
+                    <g id="Guides/Legend" transform="translate(0.000000, 112.000000)">
+                        <g id="-g-legend">
+                            <g id="Guides/Key" transform="translate(0.000000, 60.000000)">
+                                <text id="Value" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="12" fill="#2A2A2A">
+                                    <tspan x="12" y="14">Border thickness</tspan>
+                                </text>
+                                <rect id="Code" fill="#0075BC" fill-rule="nonzero" x="0" y="4" width="4" height="12"></rect>
+                            </g>
+                            <g id="Guides/Key" transform="translate(0.000000, 40.000000)">
+                                <text id="Value" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="12" fill="#2A2A2A">
+                                    <tspan x="12" y="14">Text baseline</tspan>
+                                </text>
+                                <rect id="Code" fill="#38BE16" fill-rule="evenodd" x="0" y="4" width="4" height="12"></rect>
+                            </g>
+                            <g id="Guides/Key" transform="translate(0.000000, 20.000000)">
+                                <text id="Value" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="12" fill="#2A2A2A">
+                                    <tspan x="12" y="14">Padding</tspan>
+                                </text>
+                                <rect id="Code" fill="#9C41EA" fill-rule="evenodd" x="0" y="4" width="4" height="12"></rect>
+                            </g>
+                            <g id="Guides/Key">
+                                <text id="Value" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="12" fill="#2A2A2A">
+                                    <tspan x="12" y="14">Dimensions</tspan>
+                                </text>
+                                <rect id="Code" fill="#FF9800" fill-rule="evenodd" x="0" y="4" width="4" height="12"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

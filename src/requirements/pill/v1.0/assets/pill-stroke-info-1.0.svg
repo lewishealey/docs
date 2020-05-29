@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="20px" viewBox="0 0 46 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>pill-stroke-info-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-1201.000000, -1700.000000)" fill="#0075BC">
+            <g id="States" transform="translate(370.000000, 1150.000000)">
+                <g id="Group" transform="translate(0.000000, 408.000000)">
+                    <g id="5" transform="translate(768.000000, 0.000000)">
+                        <g id="Pill-/-2-Stroke-/-(20px)-Default" transform="translate(63.000000, 142.000000)">
+                            <path d="M36,0 C41.5228475,-1.01453063e-15 46,4.4771525 46,10 C46,15.5228475 41.5228475,20 36,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L36,0 Z M36,1 L10,1 C5.02943725,1 1,5.02943725 1,10 C1,14.9705627 5.02943725,19 10,19 L10,19 L36,19 C40.9705627,19 45,14.9705627 45,10 C45,5.02943725 40.9705627,1 36,1 L36,1 Z" id="PIll" fill-rule="nonzero"></path>
+                            <text id="Label" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16">
+                                <tspan x="12.1582031" y="14">Info</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

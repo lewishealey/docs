@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="28px" viewBox="0 0 252 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>anatomy-pill-stroke-default-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-92.5%" y="-92.5%" width="285.0%" height="285.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="20" height="20" rx="10"></rect>
+        <filter x="-92.5%" y="-92.5%" width="285.0%" height="285.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="20" height="20" rx="10"></rect>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-940.000000, -2595.000000)">
+            <g id="Anatomy" transform="translate(370.000000, 2374.000000)">
+                <g id="Stroke" transform="translate(480.000000, 80.000000)">
+                    <g id="anatomy-pill-stroke-default-1.0" transform="translate(94.000000, 142.000000)">
+                        <g id="Pill-/-2-Stroke-/-(20px)-Default" transform="translate(98.000000, 0.000000)" fill="#949494">
+                            <path d="M38,0 C43.5228475,-1.01453063e-15 48,4.4771525 48,10 C48,15.5228475 43.5228475,20 38,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L38,0 Z M38,1 L10,1 C5.02943725,1 1,5.02943725 1,10 C1,14.9705627 5.02943725,19 10,19 L10,19 L38,19 C42.9705627,19 47,14.9705627 47,10 C47,5.02943725 42.9705627,1 38,1 L38,1 Z" id="PIll" fill-rule="nonzero"></path>
+                            <text id="Label" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16">
+                                <tspan x="12.0791016" y="14">Text</tspan>
+                            </text>
+                        </g>
+                        <g id="Specs/Single/Right">
+                            <g id="-g-badge">
+                                <g id="Specs/Anatomy/Line/Right">
+                                    <path d="M96,11.5 C96.8284271,11.5 97.5,10.8284271 97.5,10 C97.5,9.17157288 96.8284271,8.5 96,8.5 C95.1715729,8.5 94.5,9.17157288 94.5,10 C94.5,10.8284271 95.1715729,11.5 96,11.5 Z M95,10 L16,10" id="Guide" stroke="#6927FF" stroke-width="1.5"></path>
+                                    <circle id="Mark" fill="#FFFFFF" fill-rule="evenodd" cx="96" cy="10" r="1"></circle>
+                                </g>
+                                <g id="Badge-2">
+                                    <g id="Specs/Anatomy/Badge">
+                                        <g id="-g-Badge" filter="url(#filter-1)">
+                                            <g id="Specs/Anatomy/Badge/Type/Default">
+                                                <mask id="mask-3" fill="white">
+                                                    <use xlink:href="#path-2"></use>
+                                                </mask>
+                                                <use id="Badge" fill-opacity="0.8" fill="#000000" fill-rule="nonzero" xlink:href="#path-2"></use>
+                                            </g>
+                                            <g id="Specs/Property/Text" transform="translate(7.000000, 0.000000)" fill="#FFFFFF" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="12">
+                                                <g id="Specs/Anatomy/Property">
+                                                    <text id="Value">
+                                                        <tspan x="0" y="14">1</tspan>
+                                                    </text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Specs/Single/Left" transform="translate(131.000000, 0.000000)">
+                            <g id="-g-badge">
+                                <g id="Specs/Anatomy/Line/Left">
+                                    <path d="M2,11.5 C2.82842712,11.5 3.5,10.8284271 3.5,10 C3.5,9.17157288 2.82842712,8.5 2,8.5 C1.17157288,8.5 0.5,9.17157288 0.5,10 C0.5,10.8284271 1.17157288,11.5 2,11.5 Z M3,10 L97,10" id="Guide" stroke="#6927FF" stroke-width="1.5"></path>
+                                    <circle id="Mark" fill="#FFFFFF" fill-rule="evenodd" cx="2" cy="10" r="1"></circle>
+                                </g>
+                                <g id="Badge-2" transform="translate(93.000000, 0.000000)">
+                                    <g id="Specs/Anatomy/Badge">
+                                        <g id="-g-Badge" filter="url(#filter-4)">
+                                            <g id="Specs/Anatomy/Badge/Type/Default">
+                                                <mask id="mask-6" fill="white">
+                                                    <use xlink:href="#path-5"></use>
+                                                </mask>
+                                                <use id="Badge" fill-opacity="0.8" fill="#000000" fill-rule="nonzero" xlink:href="#path-5"></use>
+                                            </g>
+                                            <g id="Specs/Property/Text" transform="translate(7.000000, 0.000000)" fill="#FFFFFF" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="12">
+                                                <g id="Specs/Anatomy/Property">
+                                                    <text id="Value">
+                                                        <tspan x="0" y="14">2</tspan>
+                                                    </text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

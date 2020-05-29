@@ -1,0 +1,249 @@
+---
+title: "Pill"
+slug: "pill"
+date: "2019-12-18"
+version: "1.0"
+jira: "https://jira.internal.cba/projects/CSLJIM/issues/CSLJIM-583"
+zeplin: "http://zpl.io/a3dmkwN"
+preview: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNDJweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgNDIgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDYxICg4OTU4MSkgLSBodHRwczovL3NrZXRjaC5jb20gLS0+CiAgICA8dGl0bGU+UGlsbDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPgogICAgICAgIDxyZWN0IGlkPSJwYXRoLTEiIHg9IjAiIHk9IjAiIHdpZHRoPSI0MiIgaGVpZ2h0PSIyMCIgcng9IjEwIj48L3JlY3Q+CiAgICA8L2RlZnM+CiAgICA8ZyBpZD0iQ29tcG9uZW50cy0tLUVsZW1lbnRzIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQ29tcG9uZW50LS0tUGlsbC0tLTEuMC0tLUNTTEpJTS00MzAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04MjkuMDAwMDAwLCAtNDg4LjAwMDAwMCkiPgogICAgICAgICAgICA8ZyBpZD0iVHlwZXMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM3MC4wMDAwMDAsIDI3MC4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnIGlkPSJQaWxsLS8tMS1EZWZhdWx0LS8tKDIwcHgpLURlZmF1bHQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ1OS4wMDAwMDAsIDIxOC4wMDAwMDApIj4KICAgICAgICAgICAgICAgICAgICA8bWFzayBpZD0ibWFzay0yIiBmaWxsPSJ3aGl0ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI3BhdGgtMSI+PC91c2U+CiAgICAgICAgICAgICAgICAgICAgPC9tYXNrPgogICAgICAgICAgICAgICAgICAgIDx1c2UgaWQ9IlBpbGwiIGZpbGw9IiM5NDk0OTQiIGZpbGwtcnVsZT0ibm9uemVybyIgeGxpbms6aHJlZj0iI3BhdGgtMSI+PC91c2U+CiAgICAgICAgICAgICAgICAgICAgPHRleHQgaWQ9IkxhYmVsIiBtYXNrPSJ1cmwoI21hc2stMikiIGZvbnQtZmFtaWx5PSJBcmlhbE1ULCBBcmlhbCIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9Im5vcm1hbCIgbGluZS1zcGFjaW5nPSIxNiIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0c3BhbiB4PSIxMi4zMzIyNzU0IiB5PSIxNCI+UGlsbDwvdHNwYW4+CiAgICAgICAgICAgICAgICAgICAgPC90ZXh0PgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="
+---
+import Token from '../../../components/token'
+import Section from '../../../components/section'
+import Detail from '../../../components/detail'
+import TokenTable from '../../../components/tokentable'
+
+import pillSolid from './assets/pill-default-1.0.svg'
+import pillStroke from './assets/pill-stroke-1.0.svg'
+
+import pillSolidDefault from './assets/pill-solid-default-1.0.svg'
+import pillSolidSuccess from './assets/pill-solid-success-1.0.svg'
+import pillSolidWarning from './assets/pill-solid-warning-1.0.svg'
+import pillSolidError from './assets/pill-solid-error-1.0.svg'
+import pillSolidInfo from './assets/pill-solid-info-1.0.svg'
+
+import pillSolidDefaultCompact from './assets/pill-solid-default-compact-1.0.svg'
+
+import pillStrokeDefault from './assets/pill-stroke-default-1.0.svg'
+import pillStrokeSuccess from './assets/pill-stroke-success-1.0.svg'
+import pillStrokeWarning from './assets/pill-stroke-warning-1.0.svg'
+import pillStrokeError from './assets/pill-stroke-error-1.0.svg'
+import pillStrokeInfo from './assets/pill-stroke-info-1.0.svg'
+
+import shapeElevation from './assets/shape-pill-solid-default-1.0.svg'
+import typography from './assets/typography-pill-solid-default-1.0.svg'
+
+import stylePillSolidDefault from './assets/style-pill-solid-default-1.0.svg'
+import stylePillSolidSuccess from './assets/style-pill-solid-success-1.0.svg'
+import stylePillSolidWarning from './assets/style-pill-solid-warning-1.0.svg'
+import stylePillSolidError from './assets/style-pill-solid-error-1.0.svg'
+import stylePillSolidInfo from './assets/style-pill-solid-info-1.0.svg'
+
+import stylePillStrokeDefault from './assets/style-pill-stroke-default-1.0.svg'
+import stylePillStrokeSuccess from './assets/style-pill-stroke-success-1.0.svg'
+import stylePillStrokeWarning from './assets/style-pill-stroke-warning-1.0.svg'
+import stylePillStrokeError from './assets/style-pill-stroke-error-1.0.svg'
+import stylePillStrokeInfo from './assets/style-pill-stroke-info-1.0.svg'
+
+import anatomySolid from './assets/anatomy-pill-solid-default-1.0.svg'
+import anatomyStroke from './assets/anatomy-pill-stroke-default-1.0.svg'
+
+### Static pills are used for wayfinding, such as labelling a parent data category, status or state.
+
+## Types
+<Section>
+	<Detail 
+		title="Static Pill"
+		caption="Static pills are used for wayfinding data, such as labelling a category, status or state."
+		file={pillSolid}
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "blueprint"
+		}}
+	/>
+</Section>
+
+## Variations
+<Section>
+<Detail 
+	title="Solid"
+	text="The solid pill has a background surface which adds to visual dominance."
+	caption="Static pills are used for wayfinding data, such as labelling a category, status or state."
+	file={pillSolid}
+	tokens={{
+		version: props.frontmatter.version,
+		component: props.frontmatter.slug,
+		section: "variation-solid"
+	}}
+/>
+<Detail 
+	title="Stroke"
+	text="The stroke pill has a border instead of a background surface, giving a more subtle appearance."
+	caption="Static pills are used for wayfinding data, such as labelling a category, status or state."
+	file={pillStroke}
+	tokens={{
+		version: props.frontmatter.version,
+		component: props.frontmatter.slug,
+		section: "variation-stroke"
+	}}
+/>
+</Section>
+
+## Sizes
+<Section>
+	<Detail 
+		title="Default" 
+		caption="Default pill follows the small body variant, and is used in most instances." 
+		file={pillSolidDefault} />
+	<Detail 
+		title="Compact" 
+		caption="Compact pill; follows the minute body variant, and is used when nesting in compact controls." 
+		file={pillSolidDefaultCompact} />
+</Section>
+
+## States
+<Section title="Solid">
+	<Detail 
+		caption="No context" 
+		file={pillSolidDefault} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-solid-default"
+		}}/>
+	<Detail 
+		caption="Positive context" 
+		file={pillSolidSuccess} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-solid-success"
+		}}/>
+	<Detail 
+		caption="Important context" 
+		file={pillSolidWarning} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-solid-warning"
+		}}/>
+	<Detail 
+		caption="Negative context" 
+		file={pillSolidError} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-solid-error"
+		}}/>
+	<Detail 
+		caption="Passive context" 
+		file={pillSolidInfo} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-solid-info"
+		}}/>
+</Section>
+
+<Section title="Stroke">
+	<Detail 
+		caption="No context" 
+		file={pillStrokeDefault} 
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-stroke-default"
+		}}/>
+	<Detail 
+		caption="Positive context" 
+		file={pillStrokeSuccess}
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-stroke-success"
+		}}/>
+	<Detail 
+		caption="Important context" 
+		file={pillStrokeWarning}
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-stroke-warning"
+		}}/>
+	<Detail 
+		caption="Negative context" 
+		file={pillStrokeError}
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-stroke-error"
+		}}/>
+	<Detail 
+		caption="Passive context" 
+		file={pillStrokeInfo}
+		tokens={{
+			version: props.frontmatter.version,
+			component: props.frontmatter.slug,
+			section: "state-stroke-info"
+		}}/>
+</Section>
+
+
+## Anatomy
+<Section>
+	<Detail 
+		title="Solid" file={anatomySolid} 
+		list={['Pill Background','Pill Text',]}/>
+	<Detail title="Stroke" file={anatomyStroke} 
+	list={['Pill Border','Pill Text']} />
+</Section>
+
+## Measurements
+<Section>
+	<Detail 
+		title="Solid" file={shapeElevation} />
+	<Detail 
+		title="Stroke" 
+		file={typography} 
+		caption="The same as Solid, with addition of a border"/>
+</Section>
+
+## Responsive
+<Section>
+	<Detail 
+		title="Don't: auto width" 
+		state="error"
+		file={shapeElevation} 
+		caption="Don't allow pills to exeed their max-width"/>
+	<Detail 
+		title="Do: max-width" 
+		state="success"
+		file={typography} 
+		caption="Do ensure pills have a character limit"/>
+</Section>
+<Section>
+	<Detail 
+		title="Don't: word-wrap" 
+		state="error"
+		file={shapeElevation} 
+		caption="Don't wrap pills onto a new line"/>
+	<Detail 
+		title="Do: truncate text" 
+		state="success"
+		file={typography} 
+		caption="Do truncate text if pills are too long"/>
+</Section>
+
+## Placement
+- Pills appear in lists or rows should have an 8px where adjacent.
+- **DON'T** mix the size of pills in a list or row.
+- **DO** order pills by solids first, then strokes.
+
+## Interaction
+
+Static pills do not have interactions.
+
+## Animation
+
+Static pills do not have animations.
+

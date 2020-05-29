@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="377px" height="59px" viewBox="0 0 377 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>responsive-truncate-text-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="344" height="20" rx="10"></rect>
+        <filter x="-20.3%" y="-92.5%" width="140.7%" height="285.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="91" height="20" rx="10"></rect>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-908.000000, -4671.000000)">
+            <g id="Responsive" transform="translate(370.000000, 4184.000000)">
+                <g id="Wrap-Do" transform="translate(480.000000, 384.000000)">
+                    <g id="responsive-truncate-text-1.0" transform="translate(58.000000, 104.000000)">
+                        <g id="Pill-/-1-Default-/-(20px)-Default" transform="translate(0.000000, 38.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Pill" fill="#949494" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <text id="Label" mask="url(#mask-2)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="12.2993164" y="14">An extremely long pill does not exceed a specific leng...</tspan>
+                            </text>
+                        </g>
+                        <g id="Specs/Single/Down" transform="translate(281.500000, 0.000000)">
+                            <g id="-g-badge" transform="translate(-35.500000, 0.000000)">
+                                <g id="Specs/Anatomy/Line/Bottom">
+                                    <path d="M81,47.5 C81.8284271,47.5 82.5,46.8284271 82.5,46 C82.5,45.1715729 81.8284271,44.5 81,44.5 C80.1715729,44.5 79.5,45.1715729 79.5,46 C79.5,46.8284271 80.1715729,47.5 81,47.5 Z M81,45 L81,16" id="Guide" stroke="#6927FF" stroke-width="1.5"></path>
+                                    <circle id="Mark" fill="#FFFFFF" fill-rule="evenodd" cx="81" cy="46" r="1"></circle>
+                                </g>
+                                <g id="Specs/Anatomy/Badge" transform="translate(35.500000, 0.000000)">
+                                    <g id="-g-Badge" filter="url(#filter-3)">
+                                        <g id="Specs/Anatomy/Badge/Type/Default">
+                                            <mask id="mask-5" fill="white">
+                                                <use xlink:href="#path-4"></use>
+                                            </mask>
+                                            <use id="Badge" fill-opacity="0.8" fill="#000000" fill-rule="nonzero" xlink:href="#path-4"></use>
+                                        </g>
+                                        <g id="Specs/Property/Text" transform="translate(7.000000, 0.000000)" fill="#FFFFFF" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="12">
+                                            <g id="Specs/Anatomy/Property">
+                                                <text id="Value">
+                                                    <tspan x="0" y="14">Truncated Text</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="82px" viewBox="0 0 123 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>style-pill-stroke-warning-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1200" height="6012"></rect>
+        <rect id="path-3" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-5" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-7" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-9" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-11" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-13" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-15" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-17" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-19" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-21" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-23" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-25" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-27" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-29" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-31" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-33" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-35" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-37" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-39" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-41" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-43" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-45" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-47" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-49" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-51" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-53" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-55" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-57" x="0" y="0" width="240" height="36"></rect>
+        <rect id="path-59" x="0" y="28" width="1440" height="60"></rect>
+        <rect id="path-61" x="0" y="0" width="97" height="20" rx="10"></rect>
+        <filter x="-18.6%" y="-147.5%" width="133.9%" height="395.0%" filterUnits="objectBoundingBox" id="filter-63">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-64" x="0" y="0" width="121" height="20" rx="10"></rect>
+        <filter x="-154.2%" y="-154.2%" width="408.3%" height="408.3%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-21.0%" y="-147.5%" width="138.3%" height="395.0%" filterUnits="objectBoundingBox" id="filter-67">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-68" x="0" y="0" width="107" height="20" rx="10"></rect>
+        <filter x="-154.2%" y="-154.2%" width="408.3%" height="408.3%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-794.000000, -3923.000000)">
+            <g id="Template/Default">
+                <g id="-g-template">
+                    <g id="Content" transform="translate(240.000000, 88.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Container" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Template/Navigation/Level-2/Components" transform="translate(0.000000, 88.000000)">
+                        <rect fill="#F3F3F3" x="0" y="0" width="240" height="6012"></rect>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Trend" opacity="0.29968843" transform="translate(0.000000, 1052.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-4)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Trend</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Tooltip" opacity="0.29968843" transform="translate(0.000000, 1016.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-6)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Tooltip</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Card-Header" opacity="0.29968843" transform="translate(0.000000, 296.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-8)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Card Header</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Timeframe" opacity="0.29968843" transform="translate(0.000000, 980.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-10)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Timeframe</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Text-Field" opacity="0.29968843" transform="translate(0.000000, 944.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-12)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Text Field</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Table" opacity="0.29968843" transform="translate(0.000000, 908.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-14)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Table</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Tab" opacity="0.29968843" transform="translate(0.000000, 872.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-16)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Tab</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Spark" opacity="0.29968843" transform="translate(0.000000, 836.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-18" fill="white">
+                                    <use xlink:href="#path-17"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-18)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Spark</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Sidebar" opacity="0.29968843" transform="translate(0.000000, 800.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-20" fill="white">
+                                    <use xlink:href="#path-19"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-20)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Sidebar</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Search" opacity="0.29968843" transform="translate(0.000000, 764.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-22" fill="white">
+                                    <use xlink:href="#path-21"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-22)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Search</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Results" opacity="0.29968843" transform="translate(0.000000, 728.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-24" fill="white">
+                                    <use xlink:href="#path-23"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-24)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Results</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Active/Pill" transform="translate(0.000000, 692.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Active">
+                                <mask id="mask-26" fill="white">
+                                    <use xlink:href="#path-25"></use>
+                                </mask>
+                                <use id="Background" fill="#FFCC00" fill-rule="nonzero" xlink:href="#path-25"></use>
+                                <text id="Value" mask="url(#mask-26)" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Pill</tspan>
+                                </text>
+                                <rect id="Icon" fill="#FFCC00" fill-rule="nonzero" mask="url(#mask-26)" x="0" y="0" width="4" height="36"></rect>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Navigation" opacity="0.29968843" transform="translate(0.000000, 656.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-28" fill="white">
+                                    <use xlink:href="#path-27"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-28)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Navigation</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Modal" opacity="0.29968843" transform="translate(0.000000, 620.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-30" fill="white">
+                                    <use xlink:href="#path-29"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-30)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Modal</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Market-Ticker" opacity="0.29968843" transform="translate(0.000000, 584.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-32" fill="white">
+                                    <use xlink:href="#path-31"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-32)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Market Ticker</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Icon-Circle" opacity="0.29968843" transform="translate(0.000000, 548.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-34" fill="white">
+                                    <use xlink:href="#path-33"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-34)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Icon Circle</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Hint" opacity="0.29968843" transform="translate(0.000000, 512.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-36" fill="white">
+                                    <use xlink:href="#path-35"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-36)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Hint</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Dropdown" opacity="0.29968843" transform="translate(0.000000, 476.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-38" fill="white">
+                                    <use xlink:href="#path-37"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-38)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Dropdown</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Datepicker" opacity="0.29968843" transform="translate(0.000000, 440.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-40" fill="white">
+                                    <use xlink:href="#path-39"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-40)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Datepicker</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Checklist" opacity="0.29968843" transform="translate(0.000000, 404.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-42" fill="white">
+                                    <use xlink:href="#path-41"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-42)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Checklist &amp; Radiolist</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Checkbox" opacity="0.29968843" transform="translate(0.000000, 368.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-44" fill="white">
+                                    <use xlink:href="#path-43"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-44)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Checkbox &amp; Radio</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Change" opacity="0.29968843" transform="translate(0.000000, 332.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-46" fill="white">
+                                    <use xlink:href="#path-45"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-46)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Change</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Card" opacity="0.29968843" transform="translate(0.000000, 260.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-48" fill="white">
+                                    <use xlink:href="#path-47"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-48)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Card</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Button" opacity="0.29968843" transform="translate(0.000000, 224.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-50" fill="white">
+                                    <use xlink:href="#path-49"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-50)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Button</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Badge" opacity="0.29968843" transform="translate(0.000000, 188.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-52" fill="white">
+                                    <use xlink:href="#path-51"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-52)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Badge</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Alert" opacity="0.29968843" transform="translate(0.000000, 152.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-54" fill="white">
+                                    <use xlink:href="#path-53"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-54)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Alert</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/Accordion" opacity="0.29968843" transform="translate(0.000000, 116.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-56" fill="white">
+                                    <use xlink:href="#path-55"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-56)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">Accordion</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Component/Inactive/52-week-Range" opacity="0.29968843" transform="translate(0.000000, 80.000000)">
+                            <g id="Template/Navigation/Level-2/Anatomy/Inactive">
+                                <mask id="mask-58" fill="white">
+                                    <use xlink:href="#path-57"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <text id="Value" mask="url(#mask-58)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                    <tspan x="32" y="21">52-Week Range</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Template/Navigation/Level-2/Anatomy/Header" transform="translate(0.000000, 32.000000)" fill="#6F6F6F" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="16">
+                            <text id="Heading">
+                                <tspan x="32" y="35">Components</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Template/Header">
+                        <rect id="Strip" fill="#2A2A2A" fill-rule="nonzero" x="0" y="0" width="1440" height="28"></rect>
+                        <mask id="mask-60" fill="white">
+                            <use xlink:href="#path-59"></use>
+                        </mask>
+                        <use id="Container" fill="#373737" fill-rule="nonzero" xlink:href="#path-59"></use>
+                        <g id="Template/Navigation/Level-1/Components" mask="url(#mask-60)">
+                            <g transform="translate(1002.000000, 28.000000)" id="Template/Navigation/Level-1/Anatomy">
+                                <g>
+                                    <g id="Tab-/-1-Category-/-(15x)-2-Item" opacity="0.3" transform="translate(323.000000, 0.000000)">
+                                        <rect fill="#373737" x="0" y="0" width="99" height="60"></rect>
+                                        <g id="_Token-/-Choice-/-$color-commsec-neutral-90" stroke-width="1" fill-rule="evenodd" fill="#373737">
+                                            <rect id="Fill" fill-rule="nonzero" x="0" y="0" width="99" height="60"></rect>
+                                        </g>
+                                        <text id="Item" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                                            <tspan x="16" y="33">Resources</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Tab-/-1-Category-/-(15x)-1-Active" transform="translate(211.000000, 0.000000)">
+                                        <rect fill="#FFFFFF" x="0" y="0" width="112" height="60"></rect>
+                                        <g id="_Token-/-Choice-/-$color-commsec-neutral-90" stroke-width="1" fill-rule="evenodd" fill="#FFFFFF">
+                                            <rect id="Fill" fill-rule="nonzero" x="0" y="0" width="112" height="60"></rect>
+                                        </g>
+                                        <text id="Item" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#2A2A2A">
+                                            <tspan x="17" y="33">Components</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Tab-/-1-Category-/-(15x)-2-Item" transform="translate(98.000000, 0.000000)">
+                                        <rect fill="#373737" x="0" y="0" width="113" height="60"></rect>
+                                        <g id="_Token-/-Choice-/-$color-commsec-neutral-90" stroke-width="1" fill-rule="evenodd" fill="#373737">
+                                            <rect id="Fill" fill-rule="nonzero" x="0" y="0" width="113" height="60"></rect>
+                                        </g>
+                                        <text id="Item" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                                            <tspan x="16" y="33">Foundational</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Tab-/-1-Category-/-(15x)-2-Item" opacity="0.3" transform="translate(16.000000, 0.000000)">
+                                        <rect fill="#373737" x="0" y="0" width="82" height="60"></rect>
+                                        <g id="_Token-/-Choice-/-$color-commsec-neutral-90" stroke-width="1" fill-rule="evenodd" fill="#373737">
+                                            <rect id="Fill" fill-rule="nonzero" x="0" y="0" width="82" height="60"></rect>
+                                        </g>
+                                        <text id="Item" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                                            <tspan x="16" y="33">Content</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Design-System" mask="url(#mask-60)" font-family="ArialMT, Arial" font-size="16" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="186" y="62">Design System</tspan>
+                        </text>
+                        <g id="Logo-/-CommSec-/-White-/-(60px)-15x" mask="url(#mask-60)" fill-rule="evenodd" stroke-width="1">
+                            <g transform="translate(32.000000, 42.000000)" id="Logo">
+                                <g>
+                                    <polyline id="Mark" fill="#FFC325" fill-rule="nonzero" points="124 0 108.014925 16.0155224 123.910448 31.9712296 139.895522 15.9407534 124 0.0149538024"></polyline>
+                                    <polygon id="Mark" fill="#000000" fill-rule="nonzero" points="136.044776 12.0826724 131.223881 16.9127505 123.925373 31.9562758 139.895522 15.9407534"></polygon>
+                                    <path d="M19.119403,12.6060554 C21.7910448,11.6191045 25.2835821,12.11258 27.0597015,14.5051883 C28.4029851,16.4043213 28.5074627,19.0960057 27.4179104,21.114769 C25.6865672,24.1653447 21.358209,24.7036816 18.4328358,23.2083014 C14.3880597,21.1297228 14.7014925,14.0715281 19.119403,12.6060554 Z M4.04477612,8.76292822 C6.6119403,7.58157783 9.79104478,7.71616205 12.238806,9.13677328 C13.9701493,10.1536318 14.9552239,12.0826724 15.1343284,14.0565743 C13.4328358,14.0565743 11.7313433,14.0715281 10.0298507,14.0565743 C9.6119403,13.2042075 9.08955224,12.1574414 8,12.1275338 C6.68656716,11.9779957 5.76119403,13.2341151 5.53731343,14.4154655 C5.29850746,15.7613077 5.25373134,17.256688 5.89552239,18.5128074 C6.32835821,19.3801279 7.32835821,20.0231414 8.31343284,19.7240654 C9.31343284,19.4698507 9.76119403,18.4529922 10.1641791,17.6155792 C11.8208955,17.6155792 13.4626866,17.6006254 15.119403,17.6155792 C14.9402985,20.1128643 13.4626866,22.5652878 11.0597015,23.4475622 C8.05970149,24.5541436 4.26865672,24.0457143 2.02985075,21.6381521 C0.671641791,20.2474485 0.0597014925,18.2735466 4.4408921e-13,16.344506 L4.4408921e-13,16.344506 L4.4408921e-13,15.5968159 C0.0447761194,12.8154087 1.47761194,9.98914001 4.04477612,8.76292822 Z M65.2686567,9.13677328 C67.3731343,7.64139303 70.4776119,7.76102345 72.5373134,9.2564037 C73.6268657,10.0788628 74.0447761,11.4546127 74.2238806,12.7406397 C73.8955224,12.7406397 73.2537313,12.7555935 72.9253731,12.7555935 C72.7014925,11.8882729 72.5074627,10.9461834 71.761194,10.3629851 C70.238806,9.07695807 67.8208955,8.94237385 66.1492537,10.0340014 C64.7910448,10.901322 64.5522388,13.2191613 65.9701493,14.1163895 C68.2238806,15.3426013 71.0298507,15.133248 73.1641791,16.6136745 C74.8507463,17.8099787 75.0149254,20.4119403 73.7761194,21.9820896 C72.6716418,23.5671926 70.6119403,24.0307605 68.7910448,23.9260839 C66.9552239,23.8662687 64.9701493,23.1634399 63.9701493,21.5334755 C63.4179104,20.7110163 63.3134328,19.7240654 63.2238806,18.767022 C63.6716418,18.7520682 64.1044776,18.7371144 64.5522388,18.7371144 C64.6268657,19.8736034 64.9402985,21.1297228 65.9701493,21.7727363 C67.7910448,22.9690405 70.4477612,23.0886709 72.238806,21.7727363 C73.5820896,20.8306468 73.7164179,18.4380384 72.2238806,17.5856716 C69.9402985,16.2398294 67,16.5538593 64.8507463,14.9388486 C63.0298507,13.4883298 63.4179104,10.3928927 65.2686567,9.13677328 Z M76.5820896,14.4902345 C77.9552239,12.0976262 81.7462687,11.7985501 83.5074627,13.9070362 C84.6268657,15.1482018 84.8507463,16.8828429 84.8656716,18.4978536 C82.1641791,18.5277612 79.4477612,18.467946 76.7761194,18.5277612 C76.8955224,20.1427719 77.5522388,22.026951 79.2686567,22.550334 C81.1044776,23.2083014 83.1940299,21.9671357 83.5522388,20.053049 C83.9701493,20.0680028 84.4029851,20.0680028 84.8358209,20.0829566 C84.4477612,21.3091684 83.8507463,22.6101493 82.6865672,23.2830704 C80.8059701,24.3148827 78.1044776,24.0307605 76.7761194,22.251258 C75.1791045,20.0231414 75.238806,16.8230277 76.5820896,14.4902345 Z M86.8358209,14.7444492 C88.2089552,12.1424876 92.2537313,11.6191045 94.2089552,13.8173134 C94.8059701,14.4154655 95,15.2678323 95.2238806,16.0603838 C94.8955224,16.0753376 94.2686567,16.0753376 93.9552239,16.0753376 C93.7014925,15.4771855 93.5522388,14.7893106 93.0447761,14.3406965 C91.5970149,13.0995309 89.1044776,13.4584222 88.1044776,15.1033404 C87.0149254,16.8678891 87.0149254,19.2455437 87.9850746,21.0549538 C88.8955224,22.7746411 91.5074627,23.238209 92.9253731,21.8923667 C93.5522388,21.339076 93.8059701,20.5315707 94.0447761,19.7689268 C94.4626866,19.7689268 94.8955224,19.7838806 95.3134328,19.7838806 C95.0597015,20.7857854 94.7164179,21.8325515 93.9552239,22.5802416 C92.1343284,24.524236 88.5522388,24.1503909 87.1044776,21.9372281 C85.761194,19.8137882 85.7164179,16.9725657 86.8358209,14.7444492 Z M33.119403,13.6378678 C34.8656716,11.6639659 38.238806,11.7686425 39.9253731,13.7425444 C41.7164179,11.7686425 45.2238806,11.6789197 46.880597,13.8621748 C48.5671642,11.7686425 52.1641791,11.6490121 53.7910448,13.8920824 C55.5373134,11.4994741 60.0895522,11.6340583 60.9701493,14.7145416 C61.5223881,17.6006254 61.0895522,20.5764321 61.238806,23.4924236 L61.238806,23.4924236 L56.5970149,23.4924236 C56.5671642,21.2343994 56.7164179,18.9614215 56.5223881,16.7033973 C56.1492537,15.5968159 54.4179104,16.04543 54.358209,17.1221038 C54.2238806,19.2455437 54.3432836,21.3689837 54.3134328,23.4924236 C52.7313433,23.4924236 51.1641791,23.5073774 49.5970149,23.4924236 C49.5970149,21.3091684 49.6865672,19.1259133 49.5671642,16.9426581 C49.4179104,15.6566311 47.4477612,15.9407534 47.3432836,17.10715 C47.1940299,19.2305899 47.3134328,21.3689837 47.2835821,23.4924236 L47.2835821,23.4924236 L42.6567164,23.4924236 C42.641791,21.339076 42.7313433,19.1558209 42.6268657,17.0024733 C42.6119403,16.04543 41.2686567,15.8061692 40.7313433,16.4790903 C40.3283582,16.8678891 40.3432836,17.4510874 40.3283582,17.9744705 C40.3134328,19.8137882 40.3283582,21.6531059 40.3283582,23.4924236 L40.3283582,23.4924236 L35.7164179,23.4924236 C35.7164179,21.4287989 35.761194,19.3801279 35.7164179,17.3165032 C35.7462687,16.7781663 35.4626866,16.120199 34.8507463,16.1052452 C34.0895522,15.9407534 33.4179104,16.6286283 33.4179104,17.3613646 C33.358209,19.4100355 33.4179104,21.4437527 33.4029851,23.4924236 L33.4029851,23.4924236 L28.7761194,23.4924236 L28.7761194,12.7705473 C30.1641791,12.8004549 31.5671642,12.7256859 32.9552239,12.8004549 C33,13.0098081 33.0746269,13.4285146 33.119403,13.6378678 Z M23.0298507,16.2547832 C22.8208955,15.6117697 22.0746269,15.2080171 21.4328358,15.4921393 C20.5373134,15.970661 20.4776119,17.1221038 20.4328358,18.0193319 C20.4477612,18.9464677 20.4626866,20.0680028 21.2238806,20.7259701 C21.8507463,21.2044918 22.7761194,20.8306468 23.0149254,20.1128643 C23.4477612,18.8866525 23.4477612,17.4959488 23.0298507,16.2547832 Z M82.7910448,14.9538024 C81.9402985,13.697683 80.1044776,13.2341151 78.7910448,14.0117129 C77.5373134,14.6696802 77.0597015,16.1052452 76.7761194,17.4211798 C79.0597015,17.4510874 81.3283582,17.4361336 83.6119403,17.4211798 C83.4179104,16.5688131 83.3283582,15.6566311 82.7910448,14.9538024 Z" id="CommSec" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Template/Heading" transform="translate(346.000000, 136.000000)">
+                        <g id="Version" stroke-width="1" fill-rule="evenodd" transform="translate(24.000000, 75.000000)">
+                            <g id="Pill-/-1-Default-/-(20px)-Default">
+                                <mask id="mask-62" fill="white">
+                                    <use xlink:href="#path-61"></use>
+                                </mask>
+                                <use id="Pill" fill="#9C41EA" fill-rule="evenodd" xlink:href="#path-61"></use>
+                                <text id="Label" mask="url(#mask-62)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                    <tspan x="12.3754883" y="14">CSLJIM-430</tspan>
+                                </text>
+                            </g>
+                            <text id="Version-Number" font-family="ArialMT, Arial" font-size="16" font-weight="normal" line-spacing="20" fill="#6F6F6F">
+                                <tspan x="105" y="14">1.0</tspan>
+                            </text>
+                        </g>
+                        <text id="Title" font-family="Arial-BoldMT, Arial" font-size="46" font-weight="bold" line-spacing="58" fill="#2A2A2A">
+                            <tspan x="24" y="54">Pill</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Specifications" transform="translate(370.000000, 2824.000000)">
+                <g id="Stroke---Colours" transform="translate(0.000000, 992.000000)">
+                    <g id="Section/Large">
+                        <g id="-g-section" transform="translate(0.000000, 24.000000)">
+                            <g id="Containers/Light" transform="translate(0.000000, 44.000000)" fill-rule="nonzero">
+                                <g id="Containers/Anatomy">
+                                    <rect id="Container" fill="#F9F9F9" x="0" y="0" width="940" height="168" rx="4"></rect>
+                                    <path d="M936,0 C938.209139,-4.05812251e-16 940,1.790861 940,4 L940,164 C940,166.209139 938.209139,168 936,168 L4,168 C1.790861,168 2.705415e-16,166.209139 0,164 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L936,0 Z M936,1 L4,1 C2.34314575,1 1,2.34314575 1,4 L1,4 L1,164 C1,165.656854 2.34314575,167 4,167 L4,167 L936,167 C937.656854,167 939,165.656854 939,164 L939,164 L939,4 C939,2.34314575 937.656854,1 936,1 L936,1 Z" id="Border" fill="#F3F3F3"></path>
+                                </g>
+                            </g>
+                            <text id="Title" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" line-spacing="20" fill="#6F6F6F">
+                                <tspan x="0" y="14">Stroke Colours</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Colours" transform="translate(43.000000, 107.000000)">
+                        <g id="3" transform="translate(382.000000, 0.000000)">
+                            <g id="Pill-/-2-Stroke-/-(20px)-Default" transform="translate(24.500000, 32.000000)">
+                                <path d="M62,0 C67.5228475,-1.01453063e-15 72,4.4771525 72,10 C72,15.5228475 67.5228475,20 62,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L62,0 Z M62,1 L10,1 C5.02943725,1 1,5.02943725 1,10 C1,14.9705627 5.02943725,19 10,19 L10,19 L62,19 C66.9705627,19 71,14.9705627 71,10 C71,5.02943725 66.9705627,1 62,1 L62,1 Z" id="PIll" fill="#FFCC00" fill-rule="nonzero"></path>
+                                <text id="Label" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#2A2A2A">
+                                    <tspan x="12.0375977" y="14">Warning</tspan>
+                                </text>
+                            </g>
+                            <g id="Specs/Single/Up" transform="translate(0.000000, 50.000000)">
+                                <g id="-g-badge" transform="translate(-50.500000, 0.000000)">
+                                    <g id="Specs/Anatomy/Line/Top">
+                                        <path d="M111,3.5 C111.828427,3.5 112.5,2.82842712 112.5,2 C112.5,1.17157288 111.828427,0.5 111,0.5 C110.171573,0.5 109.5,1.17157288 109.5,2 C109.5,2.82842712 110.171573,3.5 111,3.5 Z M111,3 L111,16" id="Guide" stroke="#6927FF" stroke-width="1.5"></path>
+                                        <circle id="Mark" fill="#FFFFFF" fill-rule="evenodd" cx="111" cy="2" r="1"></circle>
+                                    </g>
+                                    <g id="Specs/Anatomy/Badge" transform="translate(50.500000, 12.000000)">
+                                        <g id="-g-Badge" filter="url(#filter-63)">
+                                            <g id="Specs/Anatomy/Badge/Type/Default">
+                                                <mask id="mask-65" fill="white">
+                                                    <use xlink:href="#path-64"></use>
+                                                </mask>
+                                                <use id="Badge" fill-opacity="0.8" fill="#000000" fill-rule="nonzero" xlink:href="#path-64"></use>
+                                            </g>
+                                            <g id="Specs/Property/Colour" transform="translate(7.000000, 0.000000)">
+                                                <g id="Specs/Anatomy/Property">
+                                                    <text id="Value" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                                        <tspan x="22" y="14">$colour-warning</tspan>
+                                                    </text>
+                                                    <g id="Specs/Anatomy/Icon/Colour" fill-rule="evenodd" stroke-width="1">
+                                                        <g id="Depth" filter="url(#filter-66)" transform="translate(4.000000, 4.000000)">
+                                                            <path d="M3.8458278,-1.55376046e-16 L8.1541722,1.55376046e-16 C9.49145031,-9.02779573e-17 9.97637967,0.139238417 10.4652686,0.400699056 C10.9541574,0.662159695 11.3378403,1.04584256 11.5993009,1.53473144 C11.8607616,2.02362033 12,2.50854969 12,3.8458278 L12,8.1541722 C12,9.49145031 11.8607616,9.97637967 11.5993009,10.4652686 C11.3378403,10.9541574 10.9541574,11.3378403 10.4652686,11.5993009 C9.97637967,11.8607616 9.49145031,12 8.1541722,12 L3.8458278,12 C2.50854969,12 2.02362033,11.8607616 1.53473144,11.5993009 C1.04584256,11.3378403 0.662159695,10.9541574 0.400699056,10.4652686 C0.139238417,9.97637967 6.01853049e-17,9.49145031 -1.03584031e-16,8.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" id="Swatch" fill="#FFCC00" fill-rule="nonzero"></path>
+                                                            <g id="Border" opacity="0.25">
+                                                                <path d="M3.8458278,0.5 C2.70208522,0.5 2.24379883,0.588499184 1.77053087,0.841605655 C1.36877622,1.05646639 1.05646639,1.36877622 0.841605655,1.77053087 C0.588499184,2.24379883 0.5,2.70208522 0.5,3.8458278 L0.5,8.1541722 C0.5,9.29791478 0.588499184,9.75620117 0.841605655,10.2294691 C1.05646639,10.6312238 1.36877622,10.9435336 1.77053087,11.1583943 C2.24379883,11.4115008 2.70208522,11.5 3.8458278,11.5 L8.1541722,11.5 C9.29791478,11.5 9.75620117,11.4115008 10.2294691,11.1583943 C10.6312238,10.9435336 10.9435336,10.6312238 11.1583943,10.2294691 C11.4115008,9.75620117 11.5,9.29791478 11.5,8.1541722 L11.5,3.8458278 C11.5,2.70208522 11.4115008,2.24379883 11.1583943,1.77053087 C10.9435336,1.36877622 10.6312238,1.05646639 10.2294691,0.841605655 C9.75620117,0.588499184 9.29791478,0.5 8.1541722,0.5 L3.8458278,0.5 Z" stroke="#FFFFFF"></path>
+                                                                <path d="M3.8458278,0.5 C2.70208522,0.5 2.24379883,0.588499184 1.77053087,0.841605655 C1.36877622,1.05646639 1.05646639,1.36877622 0.841605655,1.77053087 C0.588499184,2.24379883 0.5,2.70208522 0.5,3.8458278 L0.5,8.1541722 C0.5,9.29791478 0.588499184,9.75620117 0.841605655,10.2294691 C1.05646639,10.6312238 1.36877622,10.9435336 1.77053087,11.1583943 C2.24379883,11.4115008 2.70208522,11.5 3.8458278,11.5 L8.1541722,11.5 C9.29791478,11.5 9.75620117,11.4115008 10.2294691,11.1583943 C10.6312238,10.9435336 10.9435336,10.6312238 11.1583943,10.2294691 C11.4115008,9.75620117 11.5,9.29791478 11.5,8.1541722 L11.5,3.8458278 C11.5,2.70208522 11.4115008,2.24379883 11.1583943,1.77053087 C10.9435336,1.36877622 10.6312238,1.05646639 10.2294691,0.841605655 C9.75620117,0.588499184 9.29791478,0.5 8.1541722,0.5 L3.8458278,0.5 Z" stroke="#000000"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Specs/Single/Down" transform="translate(7.000000, 0.000000)">
+                                <g id="-g-badge" transform="translate(-43.500000, 0.000000)">
+                                    <g id="Specs/Anatomy/Line/Bottom">
+                                        <path d="M97,39.5 C97.8284271,39.5 98.5,38.8284271 98.5,38 C98.5,37.1715729 97.8284271,36.5 97,36.5 C96.1715729,36.5 95.5,37.1715729 95.5,38 C95.5,38.8284271 96.1715729,39.5 97,39.5 Z M97,37 L97,16" id="Guide" stroke="#6927FF" stroke-width="1.5"></path>
+                                        <circle id="Mark" fill="#FFFFFF" fill-rule="evenodd" cx="97" cy="38" r="1"></circle>
+                                    </g>
+                                    <g id="Specs/Anatomy/Badge" transform="translate(43.500000, 0.000000)">
+                                        <g id="-g-Badge" filter="url(#filter-67)">
+                                            <g id="Specs/Anatomy/Badge/Type/Default">
+                                                <mask id="mask-69" fill="white">
+                                                    <use xlink:href="#path-68"></use>
+                                                </mask>
+                                                <use id="Badge" fill-opacity="0.8" fill="#000000" fill-rule="nonzero" xlink:href="#path-68"></use>
+                                            </g>
+                                            <g id="Specs/Property/Colour" transform="translate(7.000000, 0.000000)">
+                                                <g id="Specs/Anatomy/Property">
+                                                    <text id="Value" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                                        <tspan x="22" y="14">$colour-black</tspan>
+                                                    </text>
+                                                    <g id="Specs/Anatomy/Icon/Colour" fill-rule="evenodd" stroke-width="1">
+                                                        <g id="Depth" filter="url(#filter-70)" transform="translate(4.000000, 4.000000)">
+                                                            <path d="M3.8458278,-1.55376046e-16 L8.1541722,1.55376046e-16 C9.49145031,-9.02779573e-17 9.97637967,0.139238417 10.4652686,0.400699056 C10.9541574,0.662159695 11.3378403,1.04584256 11.5993009,1.53473144 C11.8607616,2.02362033 12,2.50854969 12,3.8458278 L12,8.1541722 C12,9.49145031 11.8607616,9.97637967 11.5993009,10.4652686 C11.3378403,10.9541574 10.9541574,11.3378403 10.4652686,11.5993009 C9.97637967,11.8607616 9.49145031,12 8.1541722,12 L3.8458278,12 C2.50854969,12 2.02362033,11.8607616 1.53473144,11.5993009 C1.04584256,11.3378403 0.662159695,10.9541574 0.400699056,10.4652686 C0.139238417,9.97637967 6.01853049e-17,9.49145031 -1.03584031e-16,8.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" id="Swatch" fill="#2A2A2A" fill-rule="nonzero"></path>
+                                                            <g id="Border" opacity="0.25">
+                                                                <path d="M3.8458278,0.5 C2.70208522,0.5 2.24379883,0.588499184 1.77053087,0.841605655 C1.36877622,1.05646639 1.05646639,1.36877622 0.841605655,1.77053087 C0.588499184,2.24379883 0.5,2.70208522 0.5,3.8458278 L0.5,8.1541722 C0.5,9.29791478 0.588499184,9.75620117 0.841605655,10.2294691 C1.05646639,10.6312238 1.36877622,10.9435336 1.77053087,11.1583943 C2.24379883,11.4115008 2.70208522,11.5 3.8458278,11.5 L8.1541722,11.5 C9.29791478,11.5 9.75620117,11.4115008 10.2294691,11.1583943 C10.6312238,10.9435336 10.9435336,10.6312238 11.1583943,10.2294691 C11.4115008,9.75620117 11.5,9.29791478 11.5,8.1541722 L11.5,3.8458278 C11.5,2.70208522 11.4115008,2.24379883 11.1583943,1.77053087 C10.9435336,1.36877622 10.6312238,1.05646639 10.2294691,0.841605655 C9.75620117,0.588499184 9.29791478,0.5 8.1541722,0.5 L3.8458278,0.5 Z" stroke="#FFFFFF"></path>
+                                                                <path d="M3.8458278,0.5 C2.70208522,0.5 2.24379883,0.588499184 1.77053087,0.841605655 C1.36877622,1.05646639 1.05646639,1.36877622 0.841605655,1.77053087 C0.588499184,2.24379883 0.5,2.70208522 0.5,3.8458278 L0.5,8.1541722 C0.5,9.29791478 0.588499184,9.75620117 0.841605655,10.2294691 C1.05646639,10.6312238 1.36877622,10.9435336 1.77053087,11.1583943 C2.24379883,11.4115008 2.70208522,11.5 3.8458278,11.5 L8.1541722,11.5 C9.29791478,11.5 9.75620117,11.4115008 10.2294691,11.1583943 C10.6312238,10.9435336 10.9435336,10.6312238 11.1583943,10.2294691 C11.4115008,9.75620117 11.5,9.29791478 11.5,8.1541722 L11.5,3.8458278 C11.5,2.70208522 11.4115008,2.24379883 11.1583943,1.77053087 C10.9435336,1.36877622 10.6312238,1.05646639 10.2294691,0.841605655 C9.75620117,0.588499184 9.29791478,0.5 8.1541722,0.5 L3.8458278,0.5 Z" stroke="#000000"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

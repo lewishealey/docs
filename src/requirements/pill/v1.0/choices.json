@@ -1,0 +1,73 @@
+{
+    "tokens": [{
+        "blueprint": {
+            "height": "size-5",
+            "min-width": "size-4",
+            "padding-left": "size-3",
+            "padding-right": "size-3",
+            "vertical-align": "alignment-middle",
+            "font-weight": "font-weight-default",
+            "text-align": "font-align-center",
+            "border-width": "border-width",
+            "border-style": "border-solid"
+        },
+        "variation-solid": {
+            "background-color": "colour-neutral-700",
+            "border-color": "colour-neutral-700"
+        },
+        "variation-stroke": {
+            "background-color": "transparent",
+            "border-color": "colour-neutral-700"
+        },
+        "size-default": {
+            "height": "size-5",
+            "font-size": "font-size-heading-8",
+            "line-height": "size-line-2"
+        },
+        "size-compact": {
+            "height": "size-4",
+            "font-size": "font-size-heading-8",
+            "line-height": "size-line-2"
+        },
+        "state-solid-default": {
+            "color": "colour-neutral-0",
+            "background-color": "colour-neutral-700"
+        },
+        "state-solid-success": {
+            "color": "colour-neutral-0",
+            "background-color": "colour-success-500"
+        },
+        "state-solid-warning": {
+            "color": "colour-on-warning",
+            "background-color": "colour-primary-700"
+        },
+        "state-solid-error": {
+            "color": "colour-neutral-0",
+            "background-color": "colour-error-500"
+        },
+        "state-solid-info": {
+            "color": "colour-neutral-0",
+            "background-color": "colour-info-500"
+        },
+        "state-stroke-default": {
+            "color": "colour-neutral-700",
+            "background-color": "colour-neutral-700"
+        },
+        "state-stroke-success": {
+            "color": "colour-success-500",
+            "background-color": "colour-success-500"
+        },
+        "state-stroke-warning": {
+            "color": "colour-neutral-800",
+            "background-color": "colour-primary-700"
+        },
+        "state-stroke-error": {
+            "color": "colour-error-500",
+            "background-color": "colour-error-500"
+        },
+        "state-stroke-info": {
+            "color": "colour-info-500",
+            "background-color": "colour-info-500"
+        }
+    }]
+}

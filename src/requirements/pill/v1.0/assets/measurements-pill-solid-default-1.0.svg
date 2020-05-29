@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="166px" viewBox="0 0 192 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>measurements-pill-solid-default-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="17" height="12" rx="1"></rect>
+        <rect id="path-3" x="0" y="0" width="17" height="12" rx="1"></rect>
+        <rect id="path-5" x="0" y="0" width="12" height="12" rx="1"></rect>
+        <rect id="path-7" x="0" y="0" width="12" height="12" rx="1"></rect>
+        <rect id="path-9" x="0" y="0" width="35" height="12" rx="1"></rect>
+        <rect id="path-11" x="0" y="0" width="17" height="12" rx="1"></rect>
+        <rect id="path-13" x="0" y="0" width="59" height="12" rx="1"></rect>
+        <rect id="path-15" x="0" y="0" width="74" height="20" rx="10"></rect>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-539.000000, -2972.000000)">
+            <g id="Specifications" transform="translate(370.000000, 2824.000000)">
+                <g id="Solid---Measurements" transform="translate(0.000000, 80.000000)">
+                    <g id="measurements-pill-solid-default-1.0" transform="translate(169.000000, 68.000000)">
+                        <g id="Measurements">
+                            <g id="Guides/Outerwidth" transform="translate(35.000000, 0.000000)" stroke="#000000" stroke-dasharray="2,2" stroke-opacity="0.1">
+                                <path d="M0.5,0 L0.5,167 M51.5,0 L51.5,167" id="Guides"></path>
+                            </g>
+                            <g id="Guides/X-Padding" transform="translate(86.000000, 98.000000)">
+                                <path d="M0.5,0 L0.5,16 M0.5,7.33333333 L11.5,7.33333333 M11.5,0 L11.5,16" id="Guides" stroke="#9C41EA" stroke-width="1" stroke-dasharray="2,2"></path>
+                                <g id="Guides/Value" transform="translate(-2.500000, 18.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Badge" fill="#9C41EA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <text id="Value" mask="url(#mask-2)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                        <tspan x="3.49462891" y="8">12</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Guides/X-Padding" transform="translate(24.000000, 98.000000)">
+                                <path d="M0.5,0 L0.5,16 M0.5,7.33333333 L11.5,7.33333333 M11.5,0 L11.5,16" id="Guides" stroke="#9C41EA" stroke-width="1" stroke-dasharray="2,2"></path>
+                                <g id="Guides/Value" transform="translate(-2.500000, 18.000000)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="Badge" fill="#9C41EA" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    <text id="Value" mask="url(#mask-4)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                        <tspan x="3.49462891" y="8">12</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Guides/Y-Padding" transform="translate(102.000000, 92.000000)">
+                                <path d="M0,0.5 L22,0.5 M11.9166667,0.0961538462 L11.9166667,1.92948718 M0,1.5 L22,1.5" id="Guides" stroke="#9C41EA" stroke-dasharray="2,2"></path>
+                                <g id="Value" fill-rule="evenodd" transform="translate(24.000000, -5.000000)">
+                                    <g id="Guides/Value">
+                                        <mask id="mask-6" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <use id="Badge" fill="#9C41EA" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                        <text id="Value" mask="url(#mask-6)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                            <tspan x="3.49731445" y="8">2</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Guides/Y-Padding" transform="translate(102.000000, 74.000000)">
+                                <path d="M0,0.5 L22,0.5 M11.9166667,0.0961538462 L11.9166667,1.92948718 M0,1.5 L22,1.5" id="Guides" stroke="#9C41EA" stroke-dasharray="2,2"></path>
+                                <g id="Value" fill-rule="evenodd" transform="translate(24.000000, -5.000000)">
+                                    <g id="Guides/Value">
+                                        <mask id="mask-8" fill="white">
+                                            <use xlink:href="#path-7"></use>
+                                        </mask>
+                                        <use id="Badge" fill="#9C41EA" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        <text id="Value" mask="url(#mask-8)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                            <tspan x="3.49731445" y="8">2</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Guides/Text" transform="translate(102.000000, 82.000000)">
+                                <line x1="0" y1="2" x2="90" y2="2" id="Guides" stroke="#38BE16" stroke-dasharray="2,1"></line>
+                                <g id="Value" fill-rule="evenodd" transform="translate(55.000000, -4.000000)">
+                                    <g id="Guides/Value">
+                                        <mask id="mask-10" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <use id="Badge" fill="#38BE16" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                        <text id="Value" mask="url(#mask-10)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                            <tspan x="3.25073242" y="8">Middle</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Guides/Height" transform="translate(0.000000, 74.000000)">
+                                <path d="M0,0.5 L20,0.5 M0,19.5 L20,19.5" id="Guides" stroke="#FF9800" stroke-width="1" stroke-dasharray="2,2"></path>
+                                <line x1="10.3333333" y1="0.5" x2="10.3333333" y2="19.5" id="Distance" stroke="#FF9800" stroke-width="1"></line>
+                                <g id="Guides/Value" transform="translate(1.500000, 4.000000)">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <use id="Badge" fill="#FF9800" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                    <text id="Value" mask="url(#mask-12)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                        <tspan x="3.49462891" y="8">20</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Guides/Width" transform="translate(24.000000, 50.000000)">
+                                <path d="M0.5,0 L0.5,20 M73.5,0 L73.5,20" id="Guides" stroke="#FF9800" stroke-width="1" stroke-dasharray="2,2"></path>
+                                <line x1="0.5" y1="10.3333333" x2="73.5" y2="10.3333333" id="Distance" stroke="#FF9800" stroke-width="1"></line>
+                                <g id="Guides/Value" transform="translate(7.500000, 4.000000)">
+                                    <mask id="mask-14" fill="white">
+                                        <use xlink:href="#path-13"></use>
+                                    </mask>
+                                    <use id="Badge" fill="#FF9800" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                    <text id="Value" mask="url(#mask-14)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" line-spacing="12" fill="#FFFFFF">
+                                        <tspan x="3.00317383" y="8">min-width: 4</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Pill-/-1-Default-/-(20px)-Default" transform="translate(24.000000, 74.000000)">
+                            <mask id="mask-16" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <use id="Pill" fill="#949494" fill-rule="nonzero" xlink:href="#path-15"></use>
+                            <text id="Label" mask="url(#mask-16)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="12.0727539" y="14">Solid Pill</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

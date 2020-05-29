@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="342px" height="40px" viewBox="0 0 342 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>responsive-word-wrap-1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="342" height="20" rx="10"></rect>
+        <rect id="path-3" x="0" y="0" width="102" height="20" rx="10"></rect>
+    </defs>
+    <g id="Components---Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component---Pill---1.0---CSLJIM-430" transform="translate(-429.000000, -4700.000000)">
+            <g id="Responsive" transform="translate(370.000000, 4184.000000)">
+                <g id="Wrap-Don't" transform="translate(0.000000, 384.000000)">
+                    <g id="responsive-word-wrap-1.0" transform="translate(59.000000, 132.000000)">
+                        <g id="Pill-/-1-Default-/-(20px)-Default">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Pill" fill="#949494" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <text id="Label" mask="url(#mask-2)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="12.2961426" y="14">An extremely long pill does not exceed a specific length</tspan>
+                            </text>
+                        </g>
+                        <g id="Pill-/-1-Default-/-(20px)-Default" transform="translate(0.000000, 20.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Pill" fill="#949494" fill-rule="nonzero" xlink:href="#path-3"></use>
+                            <text id="Label" mask="url(#mask-4)" font-family="ArialMT, Arial" font-size="13" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="12.333252" y="14">and therefore</tspan>
+                            </text>
+                        </g>
+                        <path d="M9,20 L9,40 L0,40 L0,20 L9,20 Z M342,0 L342,20 L333,20 L333,0 L342,0 Z" id="Mask" fill="#949494" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
