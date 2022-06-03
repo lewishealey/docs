@@ -25,7 +25,7 @@
   "devDependencies": {
     "@mdx-js/mdx": "^1.5.2",
     "@mdx-js/react": "^1.5.2",
-    "gatsby-plugin-mdx": "^1.0.62",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-source-filesystem": "^2.1.42",
     "prettier": "^1.19.1",
     "test-tokens": "^1.0.5"
